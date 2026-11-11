@@ -1,0 +1,2 @@
+1|Anjali|Kiran|root|MANAGER|ACTIVE|                                                                                                                                                                                                                            
+2|Bulbul|Malhotra|root|EMPLOYEE|ACTIVE|                                                                                                                                                                                                                        
